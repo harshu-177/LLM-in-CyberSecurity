@@ -27,7 +27,6 @@
     - [Others](#others)
   - [RQ3: What are further research directions about the application of LLMs in cybersecurity?](#rq3-what-are-further-research-directions-about-the-application-of-llms-in-cybersecurity)
     - [Further Research: Agent4Cybersecurity](#further-research-agent4cybersecurity)
-- [📖BibTeX](#bibtex)
 
 <!-- /TOC -->
 ## 🌈 Introduction
