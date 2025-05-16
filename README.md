@@ -1,6 +1,6 @@
 # LLM-in-CyberSecurity
 
-## <div align="center"LLM-in-CyberSecurity: A Systematic Literature Review<div> 
+## <div align="center">LLM-in-CyberSecurity: A Systematic Literature Review<div> 
 
 <div align="center">
 <a href="https://arxiv.org/abs/2405.03644"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:LLM-in-CyberSecurity&color=red&logo=arxiv"></a> &ensp;
